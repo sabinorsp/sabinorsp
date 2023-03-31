@@ -1,12 +1,9 @@
 title: Rodrigo S. Pereira
 logo: /assets/img/me.png
 description:
-<br>
-I'm Junior Data Scientist, I have foundation in statistical analysis, programming in Python and R and exploratory data analysis. 
+I am Junior Data Scientist, I have foundation in statistical analysis, programming in Python and R and exploratory data analysis. 
 I have worked with some data-driven problems, using machine learning algorithms, and creating visualizations to communicate insights to stakeholders.
-I hold a bachelor's degree in Mechanical Engineering and am passionate about data-driven decision-making. I enjoy exploring different possibilities and perspectives in viewing the world.
-<br><br>
-<a href="https://www.linkedin.com/in/rspsabino/">
+I hold a bachelor degree in Mechanical Engineering and am passionate about data-driven decision-making. I enjoy exploring different possibilities and perspectives in viewing the world.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
