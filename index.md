@@ -1,4 +1,7 @@
-# Dashboard results about of the PSU-MG selection process -2022. 
+# Some projects and works in Data Science and Machine Learning
+---
+
+## Dashboard results about of the PSU-MG selection process -2022. 
 
 The project aimed to create a web application with a dashboard model (using Python, the statistical software R, and the Shiny framework) for loading and providing data related to the scores of the medical residency selection process of PSU in the year 2022 in the state of Minas Gerais.
 <p align="center">
@@ -8,7 +11,7 @@ The project aimed to create a web application with a dashboard model (using Pyth
 
 ---
 
-# Dashboard to Monitoring Presidential Election 2nd Round 2022 Brazil.
+## Dashboard to Monitoring Presidential Election 2nd Round 2022 Brazil.
 
 This project aims to create a web application for monitoring the vote counting of the 2nd round of the Brazilian presidential election of 2022. The vote counting data will be transmitted via API by the Brazilian Superior Electoral. They will be captured and processed using the statistical software R. Finally, the web application will be built using the Shiny package of R.
 <p align="center">
