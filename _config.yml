@@ -1,6 +1,8 @@
 title: Rodrigo S. Pereira
 logo: /assets/img/me.png
-description: Teste 
+description: > Teste
+                Teste 
+                 Teste
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
