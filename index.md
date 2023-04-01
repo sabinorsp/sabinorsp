@@ -15,3 +15,6 @@ This project aims to create a web application for monitoring the vote counting o
   <img src="assets/img/dash_election/election.png"/>
 </p>
 [View code on Github](https://github.com/sabinorsp/dashboard_eleicoes_2022_r)
+
+---
+
