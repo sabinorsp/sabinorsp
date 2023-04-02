@@ -7,6 +7,9 @@ The project aimed to create a web application with a dashboard model (using Pyth
 <p align="center">
   <img src="assets/img/psu/dashboard_psu.png"/>
 </p>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+
 [View code on Github](https://github.com/sabinorsp/dashboard_psu_mg)
 
 ---
