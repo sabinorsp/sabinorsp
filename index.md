@@ -8,7 +8,7 @@ The project aimed to create a web application with a dashboard model (using Pyth
   <img src="assets/img/psu/dashboard_psu.png"/>
 </p>
 
-[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://matt.dray.shinyapps.io/randoflag/)
+[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](#)
 
 [View code on Github](https://github.com/sabinorsp/dashboard_psu_mg)
 
