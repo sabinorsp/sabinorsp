@@ -1,4 +1,4 @@
-# Some projects and works in Data Science and Machine Learning
+# My projects in Data Science and Machine Learning
 ---
 
 ## Dashboard results about of the PSU-MG selection process -2022. 
