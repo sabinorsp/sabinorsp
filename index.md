@@ -8,8 +8,7 @@ The project aimed to create a web application with a dashboard model (using Pyth
   <img src="assets/img/psu/dashboard_psu.png"/>
 </p>
 
-[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![(https://community.rstudio.com/c/shiny](#)
-
+[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![RStudio Community: Shiny](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fshiny.json)](https://community.rstudio.com/c/shiny)
 [View code on Github](https://github.com/sabinorsp/dashboard_psu_mg)
 
 ---
