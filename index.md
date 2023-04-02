@@ -20,6 +20,9 @@ This project aims to create a web application for monitoring the vote counting o
 <p align="center">
   <img src="assets/img/dash_election/election.png"/>
 </p>
+
+[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](#)
+
 [View code on Github](https://github.com/sabinorsp/dashboard_eleicoes_2022_r)
 
 ---
