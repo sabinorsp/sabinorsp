@@ -5,6 +5,7 @@ This project are a exploratory data analysis about a dataset that includes data 
 <p align="center">
   <img src="assets/img/eda_nutrition/evolution.png">
 </p>
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 
