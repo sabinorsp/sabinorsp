@@ -3,7 +3,7 @@
 ## Exploratory data analysis about Nutrition, Physical Activity, and Obesity. 
 This project are a exploratory data analysis about a dataset that includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System - EUA. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity.
 <p align="center">
-  <img src="img_examples/evolution.png">
+  <img src="assets/img/eda_nutrition/evolution.png">
 </p>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
