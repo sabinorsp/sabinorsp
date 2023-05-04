@@ -6,7 +6,7 @@
 This project went through several stages, including exploratory analysis, data pre-processing, model selection, model evaluation, and final classification model selection. The data used in this project was sourced from Kaggle  ([source](https://www.kaggle.com/datasets/erdemtaha/cancer-data)) and includes geometric characteristics of cancer cells that were classified as either benign or malignant.
 
 <p align="center">
-  <img src="assets/img/cell_classification/radviz-30-features.png" style="width: 50%; height: 50%;">
+  <img src="assets/img/cell_classification/radviz-30-features.png" style="width: 80%; height: 50%;">
 </p>
 
 [View code on Github](https://github.com/sabinorsp/cancer_data_classification/tree/master)
