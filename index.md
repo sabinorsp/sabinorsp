@@ -9,10 +9,11 @@
 This project are a exploratory data analysis about a dataset that includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System - EUA. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity.
 
 <p align="center">
-  <img src="img_examples/evolution.png">
+  <img src="assets/img/eda_nutrition/evolution.png">
 </p>
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#)  [![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#)
 
+[View code on Github](https://github.com/sabinorsp/eda_datagoveua_nutrition)
 
 ## Dashboard results about of the PSU-MG selection process -2022. 
 
