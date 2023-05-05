@@ -51,4 +51,3 @@ This project aims to create a web application for monitoring the vote counting o
 [View code on Github](https://github.com/sabinorsp/dashboard_eleicoes_2022_r)
 
 ---
-
