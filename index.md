@@ -4,10 +4,12 @@
 ## This project aims to develop a model for classifying cells as either malignant or benign.
 
 This project went through several stages, including exploratory analysis, data pre-processing, model selection, model evaluation, and final classification model selection. The data used in this project was sourced from Kaggle  ([source](https://www.kaggle.com/datasets/erdemtaha/cancer-data)) and includes geometric characteristics of cancer cells that were classified as either benign or malignant.
+
 <p align="center">
   <img src="assets/img/cell_classification/radviz-30-features.png" style="width: 1000; height: 400;">
 </p>
-[View code on Github](https://github.com/sabinorsp/cancer_data_classification/tree/master)  
+
+[View code on Github](https://github.com/sabinorsp/cancer_data_classification/tree/master){:target="_blank"} 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
  [![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#)  [![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -22,7 +24,7 @@ This project are a exploratory data analysis about a dataset that includes data 
 </p>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#)  [![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#)
 
-[View code on Github](https://github.com/sabinorsp/eda_datagoveua_nutrition)
+[View code on Github](https://github.com/sabinorsp/eda_datagoveua_nutrition){:target="_blank"} 
 
 ## Dashboard results about of the PSU-MG selection process -2022. 
 
@@ -34,7 +36,7 @@ The project aimed to create a web application with a dashboard model (using Pyth
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-[View code on Github](https://github.com/sabinorsp/dashboard_psu_mg)
+[View code on Github](https://github.com/sabinorsp/dashboard_psu_mg){:target="_blank"} 
 
 ---
 
@@ -48,6 +50,6 @@ This project aims to create a web application for monitoring the vote counting o
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](#)
 
-[View code on Github](https://github.com/sabinorsp/dashboard_eleicoes_2022_r)
+[View code on Github](https://github.com/sabinorsp/dashboard_eleicoes_2022_r){:target="_blank"} 
 
 ---
